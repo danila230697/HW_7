@@ -27,7 +27,7 @@ String[] array=new String[m.length];
         }
 
     }
-
+//вроде как сделал но не уверен в праивльности хотелось бы увидеть разорбанный вариант
     public static void main(String[] args) {
         int flag=0;
         String array[]=new String[flag];
