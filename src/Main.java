@@ -28,6 +28,7 @@ String[] array=new String[m.length];
 
     }
 //вроде как сделал но не уверен в праивльности хотелось бы увидеть разорбанный вариант
+    //не уверен в правильности в этом задании
     public static void main(String[] args) {
         int flag=0;
         String array[]=new String[flag];
